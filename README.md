@@ -2,6 +2,10 @@
 
 Real-time dashboard for tracking and analyzing Solana tokens using Jupiter API.
 
+## 📸 Dashboard Preview
+
+![Dashboard Main View](screenshots/dashboard_main.png)
+
 ## 🚀 Features
 
 - Live price tracking for popular tokens:
